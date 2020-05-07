@@ -1,0 +1,287 @@
+.icons {
+  font-size: 30px;
+  background-color: blue;
+}
+.head-text {
+  font-size: 15px;
+  color: whitesmoke;
+  padding-bottom: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 140px 160px;
+}
+.headbutton {
+  font-size: 10px;
+  height: 21px;
+  text-align: right;
+}
+#date {
+  font-size: 10px;
+  color:green;
+  background-color: blue;
+}
+#adate {
+  font-size: 10px;
+  color:whitesmoke;
+  background-color: blue;  
+}
+.qwerty{
+  color:blue;
+}
+.lap{
+  font-size: 10px;
+  background-color: blue;
+}
+.headline {
+  text-align: center;
+}
+b {
+  font-size: 30px 30px;
+  color: green blue;
+
+}
+.introduction {
+  text-align: center;
+  padding: 30px 50px;
+  font-size: 45px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: green;
+  
+}
+.intro {
+  font-weight: 500;
+}
+.itext {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px 20px;
+}
+.dd {
+  padding: 50px 80px;
+  font-size: 16px;
+  color: whitesmoke;
+}
+.fan {
+  background-color: blue;
+}
+.bulb {
+  font-size: 45px;
+  color:green;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding: 30px 50px;
+  font-weight: lighter;
+}
+/* .os {
+  background-color: beige;
+  color: blue;
+  padding: 80px 120px;
+  font-size: 25px;
+}
+.dk {
+  background-color: beige;
+  color: blue;
+  padding: 80px 120px;
+  font-size: 25px;
+}
+.dro {
+  padding: 10px 0px;
+} */
+#ma {
+  color:green;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 35px;
+  font-weight: 500;
+}
+#ue {
+  color: blue;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 25px;
+  text-align: end;
+}
+.hs {
+  font-size: 20px;
+  color:blue;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding: 30px 50px;
+  font-weight: bolder;
+}
+.sbutton {
+  background-color: blue;
+  color: whitesmoke;
+  font-weight: lighter;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 25px;
+}
+.table {
+  background-color: beige;
+}
+.logo {
+  text-align: center;
+}
+.hemani {
+  color: red;
+  background-color:beige;
+  padding: 40px 80px;
+  -moz-box-shadow: 5px 5px 5px #777777;
+  -webkit-box-shadow: 5px 5px 5px #777777;
+  box-shadow: 5px 5px 5px #777777;
+}
+.hemani1 {
+  color: red;
+  background-color:beige;
+  padding: 40px 90px;
+  -moz-box-shadow: 5px 5px 5px #777777;
+  -webkit-box-shadow: 5px 5px 5px #777777;
+  box-shadow: 5px 5px 5px #777777;
+
+}
+.hemani2 {
+  color: red;
+  background-color: beige;
+  padding: 40px 55px;
+  -moz-box-shadow: 5px 5px 5px #777777;
+  -webkit-box-shadow: 5px 5px 5px #777777;
+  box-shadow: 5px 5px 5px #777777;
+
+}
+ 
+.hepatitis {
+  padding: 10px 0px;
+}
+.it {
+  padding: 10px 0px;
+}
+#img {
+  color:blue;
+  font-weight: lighter;
+}
+#gal {
+  color:green;
+  font-weight: lighter;
+}
+.ig {
+  font-size: 45px;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.hiphop {
+  text-align: center;
+  padding: 50px 0px;
+}
+.lastdiv {
+  color: green;
+  font-size: 15px;
+  background-color: black;
+  padding: 70px 10px;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+.ad {
+  color: whitesmoke
+}
+.container {
+  width: 100px;
+  margin: 0 auto;
+  height: 500px;
+  text-align: center;
+  padding: 50px 0px;
+}
+.box1 {
+  background-color: beige;
+  width: 300px;
+  height: 200px;
+  font-size: 25px;
+  padding: 45px 85px;
+  border-radius: 25px;
+  -moz-box-shadow: 5px 5px 5px #777777;
+  -webkit-box-shadow: 5px 5px 5px #777777;
+  box-shadow: 5px 5px 5px #777777;
+  color: blue;
+}
+.box2 {
+background-color:beige;
+width: 300px;
+height: 200px;
+font-size: 25px;
+padding: 70px 85px;
+border-radius: 25px;
+-moz-box-shadow: 5px 5px 5px #777777;
+-webkit-box-shadow: 5px 5px 5px #777777;
+box-shadow: 5px 5px 5px #777777;
+color: blue;
+}
+.box3 {
+background-color: beige;
+width: 300px;
+height: 200px;
+font-size: 25px;
+padding: 70px 85px;
+border-radius: 25px;
+-moz-box-shadow: 5px 5px 5px #777777;
+-webkit-box-shadow: 5px 5px 5px #777777;
+box-shadow: 5px 5px 5px #777777;
+color: blue;
+}
+.box4 {
+  background-color: beige;
+  width: 300px;
+  height: 200px;
+  font-size: 25px;
+  padding: 45px 85px;
+  border-radius: 25px;
+  -moz-box-shadow: 5px 5px 5px #777777;
+  -webkit-box-shadow: 5px 5px 5px #777777;
+  box-shadow: 5px 5px 5px #777777;
+  color: blue;
+}
+.box5 {
+background-color:beige;
+width: 300px;
+height: 200px;
+font-size: 25px;
+padding: 45px 85px;
+border-radius: 25px;
+-moz-box-shadow: 5px 5px 5px #777777;
+-webkit-box-shadow: 5px 5px 5px #777777;
+box-shadow: 5px 5px 5px #777777;
+color: blue;
+}
+.box6 {
+background-color: beige;
+width: 300px;
+height: 200px;
+font-size: 25px;
+padding: 70px 85px;
+border-radius: 25px;
+-moz-box-shadow: 5px 5px 5px #777777;
+-webkit-box-shadow: 5px 5px 5px #777777;
+box-shadow: 5px 5px 5px #777777;
+color: blue;
+}
+li {
+  display: inline-block;
+  margin-right: 240px;
+}
+/* li.upcome {
+  
+} */
+div.event {
+  background-color: beige;
+  width: 250px;
+  height: 170px;
+  overflow: scroll;
+  text-align: right;
+}
+.blue {
+  color: blue;
+}
+#sofa {
+  color: blue;
+  font-weight: lighter;
+  font-size: 35px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.headerimg {
+  width: 100%
+}
+
